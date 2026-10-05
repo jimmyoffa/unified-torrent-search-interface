@@ -1,8 +1,8 @@
 {
   "tgp_version": 1,
-  "serial": 48,
-  "issued_at": "2026-10-04T10:43:16Z",
-  "expires_at": "2026-10-18T10:43:16Z",
+  "serial": 49,
+  "issued_at": "2026-10-05T11:46:41Z",
+  "expires_at": "2026-10-19T11:46:41Z",
   "moved_to": null,
   "mirrors": [
     "https://momzv2022-ctrl.github.io/unified-torrent-search-interface/feed.json"
